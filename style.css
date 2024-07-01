@@ -1,0 +1,84 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.body {
+  background-color: aquamarine;
+}
+div.round {
+  /* background-color: green; */
+  border: 10px solid rgb(56, 5, 5);
+  border-radius: 100%;
+  width: 90vh;
+  height: 90vh;
+  margin-left: 350px;
+  margin-top: 40px;
+}
+.dot {
+  font-size: 500px;
+  text-align: center;
+  margin-top: -150px;
+  color: rgb(56, 5, 5);
+}
+.one {
+  font-size: 50px;
+  margin-left: 260px;
+  margin-top: -425px;
+}
+.two {
+  font-size: 50px;
+  margin-top: -10px;
+  margin-left: 430px;
+}
+.three {
+  font-size: 50px;
+  margin-top: 20px;
+  margin-left: 510px;
+  margin-top: 50px;
+}
+.four {
+  font-size: 50px;
+  margin-left: 530px;
+  margin-top: 50px;
+}
+.five {
+  font-size: 50px;
+  margin-left: 480px;
+  margin-top: 70px;
+}
+.six {
+  font-size: 50px;
+  margin-left: 405px;
+  margin-top: 15px;
+}
+.seven {
+  font-size: 50px;
+  margin-left: 275px;
+  margin-top: -25px;
+}
+.eight {
+  font-size: 50px;
+  margin-top: -100px;
+  margin-left: 145px;
+}
+.nine {
+  font-size: 50px;
+  margin-top: -150px;
+  margin-left: 40px;
+}
+.ten {
+  font-size: 50px;
+  margin-top: -160px;
+  margin-left: 10px;
+}
+.eleven {
+  font-size: 50px;
+  margin-top: -180px;
+  margin-left: 25px;
+}
+.twelve {
+  font-size: 50px;
+  margin-top: -160px;
+  margin-left: 110px;
+}
